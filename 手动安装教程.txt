@@ -1,0 +1,9 @@
+**默认情况下请使用汉化安装脚本安装，如失败再参照下方教程手动安装
+
+1.首先进入目录：%appdata%\vortex（资源管理器直接输入就行，如果没有进入 C:\Users\你的用户名\AppData\Roaming\vortex ）
+
+2.创建一个名为 locales 的文件夹（如果有就不用创建了）
+
+3.下载翻译文件，把解压出来的，名为 zh 的文件夹丢到 locales 文件夹里！
+
+4.打开Vortex，进入：SETTINGS-INTERFACE-LANGUAGE选择中文。
