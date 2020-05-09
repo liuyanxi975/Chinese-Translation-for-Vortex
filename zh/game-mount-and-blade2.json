@@ -1,0 +1,18 @@
+﻿{
+  "Managing your load order": "管理您的加载顺序",
+  "You can adjust the load order for Bannerlord by dragging and dropping mods up or down on this page. Please keep in mind that Bannerlord is still in Early Access, which means that there might be significant changes to the game as time goes on. Please notify us of any Vortex related issues you encounter with this extension so we can fix it. For more information and help see: ": "您可以在此页面中上下拖动Mod来调整它们的加载顺序。请注意，Bannerlord 仍处于早期测试阶段，这意味着随着时间的推移，游戏可能会有重大变化。如果您在此扩展中遇到任何与Vortex相关的问题，请及时通知我们，以便我们修复。欲了解更多信息和帮助，请参见：",
+  "Modding Bannerlord with Vortex.": "用Vortex给Bannerlord打Mod。",
+  "How to use:": "如何使用:",
+  "Check the box next to the mods you want to be active in the game.": "请选中您要激活的Mod旁边的复选框。",
+  "Click Auto Sort in the toolbar. (See below for details).": "请点击工具栏中的“自动排序”。(详见下文)。",
+  "Make sure to run the game directly via the Play button in the top left corner (on the Bannerlord tile). Your Vortex load order may not be loaded if you run the Single Player game through the game launcher.": "请确保通过左上角的运行按钮直接运行游戏（在Bannerlord标识上）。如果您通过游戏启动器运行单人游戏，Vortex加载顺序可能无法加载。",
+  "Optional: Manually drag and drop mods to different positions in the load order (for testing different overrides). Mods further down the list override mods further up.": "可选：手动拖放Mod到加载顺序中的不同位置（用于测试不同的覆盖规则）。列表中更低的Mod会覆盖更高的Mod。",
+  "Please note:": "请注意：",
+  "The load order reflected here will only be loaded if you run the game via the play button in the top left corner. Do not run the Single Player game through the launcher, as that will ignore the Vortex load order and go by what is shown in the launcher instead.": "只有当您通过左上角的运行按钮运行游戏时，Vortex的加载顺序才会被加载。请不要通过启动器运行单人游戏，因为这样它会忽略Vortex的加载顺序，并按照启动器中显示的顺序来加载。",
+  "For Bannerlord, mods sorted further towards the bottom of the list will override mods further up (if they conflict). Note: Harmony patches may be the exception to this rule.": "对于Bannerlord来说，在列表的底部排序的Mod会优先于在上面的Mod(如果冲突的话)。注意：和谐补丁可能是这个规则的例外。",
+  "Auto Sort uses the SubModule.xml files (the entries under <DependedModules>) to detect dependencies to sort by. ": "自动排序使用SubModule.xml文件(<DependedModules>下的条目)来检测要排序的依赖项。",
+  "If you cannot see your mod in this load order, Vortex may have been unable to find or parse its SubModule.xml file. Most - but not all mods - come with or need a SubModule.xml file.": "如果您无法以这种加载顺序看到您的Mod，Vortex可能无法找到或解析它的SubModule.xml文件。大多数（但不是所有的Mod）都会附带或需要一个SubModule.xml文件。",
+  "Hit the deploy button whenever you install and enable a new mod.": "每当安装并启用新Mod时，请单击部署按钮。",
+  "The game will not launch unless the game store (Steam, Epic, etc) is started beforehand. If you're getting the \"Unable to Initialize Steam API\" error, restart Steam.": "您需要提前启动游戏商店（Steam、Epic等），否则游戏将无法启动。如果您收到 \"Unable to Initialize Steam API \"错误，请重启Steam。",
+  "Finished sorting": "排序完成"
+}
