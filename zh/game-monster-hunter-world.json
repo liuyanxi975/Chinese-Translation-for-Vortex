@@ -1,0 +1,4 @@
+﻿{
+  "\"Stracker's Loader\" not installed/configured": "“未安装/配置 \"Stracker's Loader\"",
+  "You're attempting to install what appears to be a ReShade mod, but Vortex is unable to confirm whether\n ReShade is installed. \n\nThe mod will still be installed, but please keep in mind that this mod will not function without ReShade.": "您正在尝试安装似乎是ReShade mod的版本，但Vortex无法确认\n 已安装ReShade。 \n\n该mod仍将安装，但请记住，没有ReShade，该模块将无法运行。"
+}
