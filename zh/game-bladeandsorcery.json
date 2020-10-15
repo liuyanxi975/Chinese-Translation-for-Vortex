@@ -1,0 +1,8 @@
+﻿{
+  "Managing your load order": "管理加载顺序",
+  "You can adjust the load order for Blade and Sorcery by dragging and dropping mods up or down on this page. As the game loads its mods alphabetically - the AAA-ZZZ prefix will be added to the mod's folder name on every deployment event to guarantee that the game loads the mods in the order set inside Vortex. The higher prefix will win any conflicts (ZZZ > AAA)": "你可以调整Blade and Sorcery的加载顺序，通过在这个页面上上下拖动mods。当游戏按字母顺序加载mod时，AAA-ZZZ前缀将添加到每个部署事件的mod文件夹名中，以保证游戏按照Vortex中设置的顺序加载mod。较高的前缀将获得各种冲突（ZZZ>AAA）",
+  "Please note:": "请注意：",
+  "For the load order to be reflected correctly within the game's mods directory, the mods must be re-deployed once you've finished changing the load order.": "为了使加载顺序正确反映在游戏的mods目录中，一旦更改了加载顺序，就必须重新部署mod。",
+  "If you cannot see your manually added mod in this load order, you may need to manually set the wanted prefix by renaming the mod's folder in the mods folder directly. as an example, lets say you have installed \"FakeMod\" and want to add it below your AAA-UnlimitedPotions mod, simply rename \"FakeMod\" to \"AAB-FakeMod\" and click the refresh button.": "如果看不到按此加载顺序手动添加的mod，则可能需要通过直接在mods文件夹中重命名mod的文件夹来手动设置所需的前缀。例如，假设您已经安装了\"FakeMod\" ，并想将其添加到AAA-UnlimitedPotions mod下，只需将“\"FakeMod\" 重命名为\"AAB-FakeMod\"，然后单击刷新按钮即可。",
+  "Manually added mods are restricted to the prefix you set and Vortex has functionality to ensure this is respected, e.g. AAB-MyMod, Vortex will pick up on that prefix and sort it correctly in the load order (e.g. after AAA-SomeMod but before AAC-AnotherMod).": "手动添加的模组仅限于您设置的前缀，并且Vortex具有确保遵守此规定的功能，例如AAB-MyMod，Vortex会选择该前缀并按加载顺序对其正确排序（例如，在AAA-SomeMod之后但在AAC-AnotherMod之前）。"
+}

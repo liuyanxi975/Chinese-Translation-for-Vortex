@@ -1,5 +1,8 @@
 ﻿{
-  "Savegame folder monitoring": "正在监控存档文件夹",
-  "Monitor Savegame directory for changes": "监控存档目录的更改",
-  "If your games take very long to save when Vortex is running, try disabling this.": "如果您的游戏在Vortex运行时需要很长时间才能保存存档，试着禁用它。"
+  "Savegame folder monitoring": "检查存档文件夹",
+  "Monitor Savegame directory for changes": "监视存档目录中的更改",
+  "If your games take very long to save when Vortex is running, try disabling this.": "如果在运行Vortex时游戏保存时间很长，请尝试禁用此功能。",
+  "Select directories to scan": "选择要扫描目录",
+  "Cancel": "取消",
+  "Scan": "扫描"
 }
