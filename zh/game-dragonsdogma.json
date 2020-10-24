@@ -2,5 +2,7 @@
   "Please note: if you are happy with your current mod setup, and have not noticed any issues, it is perfectly possible that you are not affected and shouldn't feel forced to re-install, but should keep an eye out for weird behaviour.\n\n": "请注意：如果您对您目前的Mod设置很满意，没有发现任何问题，有可能您没有受到任何影响，您无需重装，但要在日后注意观察是否存在异常。\n\n",
   "Please note: Vortex had attempted to automatically migrate your mods to the new mod format and has failed - you MUST re-install all your mods.\n\n": "请注意：Vortex曾尝试将您的Mod自动迁移到新的格式，但失败了，您必须重新安装所有的Mod。\n\n",
   "It was raised to our attention that certain DDDA mods are not being installed correctly through Vortex. This due to an error in our installer's logic which ignored all mod files positioned outside the \"../nativePC/rom/\" directory.\n\nThis unfortunately means that the mods installed within the staging folder could potentially be missing files - these mods will not function correctly unless they are re-installed.\n\n{{pleasenote}}We are sorry for the inconvenience.": "我们注意到，某些DDDA的Mod无法通过Vortex正确安装。这是由于我们的安装程序逻辑中的一个错误，它忽略了所有位于\".../nativePC/rom/\"目录之外的Mod文件。\n\n不幸的是，这意味着安装在暂存文件夹中的Mod可能会丢失文件 - 除非您重新安装，否则这些Mod将无法正常运行。\n\n{{pleasenote}}给您带来的不便，我们很抱歉。",
-  "This mod does not fit the expected packaging pattern for this game, and probably will not install correctly. Are you sure you want to proceed ?": "这个Mod不符合这个游戏的预设的包装格式，可能无法正常安装。您确定要继续吗？"
+  "This mod does not fit the expected packaging pattern for this game, and probably will not install correctly. Are you sure you want to proceed ?": "这个Mod不符合这个游戏的预设的包装格式，可能无法正常安装。您确定要继续吗？",
+  "Mods for Dragon's Dogma may need to be reinstalled": "Dragon's Dogma的Mod可能需要重新安装。",
+  "Mods for Dragon's Dogma NEED to be reinstalled": "Dragon's Dogma的Mod需要重新安装。"
 }

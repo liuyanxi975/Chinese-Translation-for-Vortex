@@ -22,5 +22,7 @@
   "LOOT Messages": "LOOT 信息",
   "Autosort Enabled": "启用自动排序",
   "Autosort Disabled": "禁用自动排序",
-  "Sort Now": "现在排序"
+  "Sort Now": "现在排序",
+  "This plugin was created for the original Skyrim and may be incompatible with Skyrim Special Edition. This can cause unforseen problems during gameplay.": "此插件是为原版Skyrim创建的，可能与Skyrim特别版不兼容。这可能会导致在游戏过程中发生不可预见的问题。",
+  "Plugin not compatible with this game": "插件与本游戏不兼容"
 }
