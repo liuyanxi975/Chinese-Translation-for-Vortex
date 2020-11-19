@@ -2721,4 +2721,12 @@
   "Source Filmmaker": "Source Filmmaker",
   "Trials of Mana": "Trials of Mana",
   "not a valid dll (code 193)": "不是有效dll (code 193)"
+  "Feedback Responder - Where you can help investigate bugs you reported": "反馈回复-您可以在哪里帮助调查报告的错误",
+  "No Feedback Response Required": "无需反馈回复",
+  "Our feedback to you: \"You know that guy in scary movies who is like, \"Hey, let's split up\"? that guy is dumb, you're not that guy!\"": "我们对您的反馈：\"您知道恐怖电影中的那个人，就像，\"嘿，让我们分手吧？\" 那个家伙很蠢，您不是那个家伙！\"",
+  "When you install a mod through Vortex it is stored in a separate directory and has no immediate effect on the game. We call the process of actually placing the files into the game directory \"deployment\".\n\nThere are different methods available in Vortex to do this Deployment, the best one will usually get picked automatically, based on which game you're modding and your system configuration.\nAll methods have in common that deployment is way quicker than copying files and consumes no or very little additional disk space.\n\nBy default, deployment happens automatically after you enable/disable a mod.\nIf you want more control you can disable this automation and will then have to manually click a button to start the deployment.\n\nPlease note that parts of Vortex (i.e. the list of plugins for TES games) will only reflect the \"deployed\" state.": "通过Vortex安装Mod时，它将存储在单独的目录中，并且对游戏没有任何影响。我们将实际将文件放入游戏目录的过程称为\"部署\"。\n\nVortex中有多种方法可用于执行此部署，通常会根据您要修改和修改的游戏自动选择最佳方法。您的系统配置。\\ n所有方法的共同点是，部署比复制文件要快得多，并且不占用或几乎不占用额外的磁盘空间。\n\n默认情况下，启用/禁用mod后会自动进行部署。\n如果需要更多控制，您可以禁用此自动化功能，然后必须手动单击按钮才能开始部署。\n\n请注意，Vortex的某些部分（即TES游戏的插件列表）将仅反映\"已部署\"状态。",
+  "Read system fonts": "阅读系统字体",
+  "System Fonts": "系统字体",
+  "Makes all system fonts installed on the system available in the Font dropdowns. This function seems to cause Vortex to crash for a very small number of users and we have not been able to identify what sets the affected systems apart yet.": "在字体下拉列表中使系统上安装的所有系统字体可用。该功能似乎导致Vortex对极少数用户崩溃，我们还无法确定是什么使受影响的系统与众不同。",
+  "The quick brown fox jumps over the lazy dog": "敏捷的棕色狐狸跨过懒狗",
 }
