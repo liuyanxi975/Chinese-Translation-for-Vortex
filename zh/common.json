@@ -1953,5 +1953,6 @@
   "Update current profile": "更新当前配置",
   "Preview": "预览",
   "File already exists": "文件已存在",
-  "You've already downloaded the file \"{{fileName}}\", do you want to download it again?": "您已经下载了文件 \"{{fileName}}\" ，是否要再次下载？"
+  "You've already downloaded the file \"{{fileName}}\", do you want to download it again?": "您已经下载了文件 \"{{fileName}}\" ，是否要再次下载？",
+  "Copy & Share log": "复制并分享日志"
 }
