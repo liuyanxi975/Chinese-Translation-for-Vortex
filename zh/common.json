@@ -1954,5 +1954,6 @@
   "Preview": "预览",
   "File already exists": "文件已存在",
   "You've already downloaded the file \"{{fileName}}\", do you want to download it again?": "您已经下载了文件 \"{{fileName}}\" ，是否要再次下载？",
-  "Copy & Share log": "复制并分享日志"
+  "Copy & Share log": "复制并分享日志",
+  "Extensions updated, please restart to apply them": "扩展程序已更新，请重新启动以应用它们"
 }
