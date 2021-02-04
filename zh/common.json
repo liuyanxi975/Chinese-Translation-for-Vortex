@@ -1237,7 +1237,7 @@
   "download manager not installed?": "下载管理器没安装？",
   "Vortex is designed to install mods from archives but this doesn't look like one. Do you want to create a mod containing just this file?": "Vortex的设计是从文档来安装Mod的，但是这个情况看起来不适用Vortex。是否要创建一个仅包含此文件的Mod？",
   "An older version of this mod is already installed. You can replace the existing one - which will update all profiles - or install this one alongside it. In the latter case both versions will be available and only the active profile will be updated. ": "已经安装了此模组的旧版本，你可以替换现有的（更新全部配置），或将其与此版本一同安装。在后一种情况下，两个版本都可以使用，并且只有当前配置会被更新",
-  "This mod seems to be installed already. You can replace the existing one or install the new one under a different name. If you do the latter, the new installation will appear as a variant of the other mod that can be toggled through the version dropdown. Use the input below to make the variant distinguishable.": "此模组似乎已经安装好了。您可以让其替换现有的模组或以不同的名称再安装一个。如果执行后者，则新安装将成为另一个模组的变种，可以通过下拉版本选项进行切换。输入下面的变量使变种得以区分。",
+  "This mod seems to be installed already. You can replace the existing one - which will update all profiles - or install the new one under a different name. If you do the latter, the new installation will appear as a variant of the other mod that can be toggled through the version dropdown. Use the input below to make the variant distinguishable.":"此模组似乎已被安装，你可以替换现有那个（更新全部配置），或以不同的名字安装一个新的。如果你选择后者，新的安装将会显示为变种以通过下拉版本选项进行切换。填写下面的变种来区分。",
   "Create Mod": "创建模组",
   "A password is required to extract this archive": "提取此压缩文件需要密码",
   "Variant": "变种",
