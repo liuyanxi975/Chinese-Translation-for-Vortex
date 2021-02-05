@@ -1314,7 +1314,7 @@
   "Purge Mods": "清除模组",
   "Confirm purge": "确认清除",
   "Failed to purge mods, please try again": "无法清除模组，请再试一次",
-  "Purging will remove all links deployed to the game directory.\nThis is not a destructive operation, on the next deployment all links will be restored.\nUse this operation to force a complete re-deployment or to restore the game directory to an unmodded-state.": "清除模组将会断开模组到游戏目录的所有链接。\n这不是破坏性操作，在下一次部署Mod时将恢复所有链接。\n您可以使用此操作完成强制重新部署或将游戏目录还原为未修改状态。",
+  "Purging will remove all links deployed to the game directory.\nThis is not a destructive operation, on the next deployment all links will be restored.\nUse this operation to force a complete re-deployment or to restore the game directory to an unmodded-state.": "清除模组将会断开模组到游戏目录的所有链接。\n这不是破坏性操作，在下一次部署模组时将恢复所有链接。\n您可以使用此操作完成强制重新部署或将游戏目录还原为未修改状态。",
   "Don't ask again": "不再询问",
   "External Changes": "外部变更",
   "Mod files were changed outside Vortex. You can undo these changes now or apply them permanently.": "模组文件在Vortex之外被更改。您可以立即撤消这些变更，也可以永久应用这些更改。",
