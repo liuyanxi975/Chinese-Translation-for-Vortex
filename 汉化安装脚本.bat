@@ -19,6 +19,8 @@ if "%APPDATA%" == "" (
 	)
 set path=%APPDATA%\Vortex
 :A
+echo 安装开始前请先关闭Vortex
+echo.
 echo 点击任意键开始安装汉化...
 pause >nul
 cls
