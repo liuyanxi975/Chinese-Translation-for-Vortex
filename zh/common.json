@@ -1609,7 +1609,7 @@
   "Shared": "共享",
   "Per-User": "个人",
   "By default, every user account on your system has its own \"instance\" of Vortex with their own settings, mods, profiles and so on.\n\nIf you want to share these things between all users of your PC, you can toggle to \"Shared\" mode. In this mode all data will be stored in a global location and available to all users on this system.\n\nPlease note that this includes login credentials for Nexus Mods and other, potentially confidential, pieces of information you enter in Vortex.\n\nThis switch is not destructive. The data stored with your user account is not touched while you're in shared mode, so you can toggle back and forth.": "默认情况下，系统上的每个用户都有自己的Vortex实例，带有自己的设置、模组、配置文件等。如果要对PC的所有用户共享这些内容，您可以切换到“共享”模式。\n\n在这种模式下，所有数据将被存储在一个全局位置，并可供该系统上的所有用户使用。\n\n请注意，这将包括Nexus Mods和其他您在Vortex使用过的登录凭据。此开关不会产生破坏性后果，你的用户数据不会在共享模式下被接触，因此可以来回切换",
-  "Language": "语言 (汉化版本：1.4.17)",
+  "Language": "语言 (汉化版本：1.5.0)",
   "Customisation": "个性化",
   "Custom Window Title Bar": "自定义窗口标题栏",
   "Enable Desktop Notifications": "启用桌面通知",
