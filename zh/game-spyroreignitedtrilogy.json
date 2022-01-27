@@ -1,5 +1,5 @@
-{
-  "Changing your load order" : "更改加载顺序",
-  "Drag and drop the mods on the left to reorder them. Spyro Reignited Trilogy loads mods in alphanumerical order so Vortex prefixes the directory names with \"AAA, AAB, AAC, ...\" to ensure they load in the order you set here. Mods placed at the bottom of the load order will have priority over those above them." : "在左边拖放Mod以重新排序。Spyro Reignited Trilogy 按字母顺序加载模组，因此Vortex在目录名前面加上“AAA, AAB, AAC，…”以确保它们能按照您在这里设置的顺序进行加载。放置在加载顺序底部的模组将优先于它们上面的模组。",
-  "Note: You can only manage mods installed with Vortex. Installing other mods manually may cause unexpected errors." : "注意:您只能使用Vortex管理和安装模组。手动安装其他Mod可能会导致意外错误。"
+﻿{
+  "Changing your load order": "更改加载顺序",
+  "Drag and drop the mods on the left to reorder them. Spyro Reignited Trilogy loads mods in alphanumerical order so Vortex prefixes the directory names with \"AAA, AAB, AAC, ...\" to ensure they load in the order you set here. Mods placed at the bottom of the load order will have priority over those above them.": "在左边拖放Mod以重新排序。Spyro Reignited Trilogy 按字母顺序加载模组，因此Vortex在目录名前面加上“AAA, AAB, AAC，…”以确保它们能按照您在这里设置的顺序进行加载。放置在加载顺序底部的模组将优先于它们上面的模组。",
+  "Note: You can only manage mods installed with Vortex. Installing other mods manually may cause unexpected errors.": "注意:您只能使用Vortex管理和安装模组。手动安装其他Mod可能会导致意外错误。"
 }
