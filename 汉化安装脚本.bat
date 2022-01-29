@@ -17,15 +17,16 @@ goto ERROR2
 if "%APPDATA%" == "" (
 		goto ERROR
 	)
-set path=%APPDATA%\Vortex
+set vortexpath=%APPDATA%\Vortex
+:F
+tasklist | find /i "vortex.exe" >nul
+if "%errorlevel%"=="1" (goto A) else (goto G)
 :A
-echo 安装开始前请先关闭Vortex
-echo.
 echo 点击任意键开始安装汉化...
 pause >nul
 cls
-md "%path%\locales\zh" >nul 2>nul
-copy /y zh %path%\locales\zh
+md "%vortexpath%\locales\zh" >nul 2>nul
+copy /y zh %vortexpath%\locales\zh
 if %errorlevel% geq 1 (
 goto ERROR3
 ) else (
@@ -56,9 +57,9 @@ set /p name=请输入您的计算机用户名（默认Administrator）：
 set drive=C
 echo.
 set /p drive=请输入您的系统盘（输入字母。默认C盘）：
-set path=%drive%:\Users\%name%\AppData\Roaming\vortex
+set vortexpath=%drive%:\Users\%name%\AppData\Roaming\vortex
 echo.
-if exist %path% (
+if exist %vortexpath% (
 echo 设定完成！
 echo.
 goto A
@@ -82,6 +83,37 @@ echo.
 echo 如问题无法得到解决请尝试手动安装,手动安装教程在压缩包和网站都有!
 echo.
 echo 如果您愿意可向github项目：liuyanxi975/Chinese-Translation-for-Vortex提交issues与我取得联系，非常感谢！
+echo.
+echo 按任意键退出脚本....
+pause >nul
+exit
+:G
+if "%off%" == "1" (
+		goto ERROR4
+	)
+echo 检测到您正在运行Vortex
+echo 脚本将自动关闭Vortex
+echo 点击任意键继续
+pause >nul
+cls
+echo 正在关闭...
+taskkill /f /im vortex.exe >nul
+set off=1
+timeout /nobreak /t 3 >nul
+cls
+echo Vortex中文汉化安装脚本
+echo.
+echo 脚本作者：liuyanxi
+echo.
+echo ==============================
+echo.
+goto F
+:ERROR4
+cls
+echo.
+echo ==============================
+echo.
+echo 关闭Vortex失败，请尝试手动关闭后再运行此脚本！
 echo.
 echo 按任意键退出脚本....
 pause >nul
