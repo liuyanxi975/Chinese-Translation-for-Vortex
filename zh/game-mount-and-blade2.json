@@ -4,7 +4,7 @@
   "Modding Bannerlord with Vortex.": "用 Vortex 改造 Bannerlord。",
   "How to use:": "如何使用：",
   "Check the box next to the mods you want to be active in the game.": "选中要在游戏中激活的模组旁边的框。",
-  "Click Auto Sort in the toolbar. (See below for details).": "单击工具栏中的自动排序。 （有关详细信息，请参见下文）。",
+  "Click Auto Sort in the toolbar. (See below for details).": "单击工具栏中的自动排序。（有关详细信息，请参见下文）。",
   "Make sure to run the game directly via the Play button in the top left corner (on the Bannerlord tile). Your Vortex load order may not be loaded if you run the Single Player game through the game launcher.": "确保通过左上角（在 Bannerlord 标识上）的开始按钮直接运行游戏。如果通过游戏启动器运行单人游戏，则可能不会加载您的 Vortex 加载顺序。",
   "Optional: Manually drag and drop mods to different positions in the load order (for testing different overrides). Mods further down the list override mods further up.": "可选：手动将模组拖放到加载顺序的不同位置（用于测试不同的替代）。列表下方的模组会覆盖列表上方的模组。",
   "Please note:": "请注意：",
