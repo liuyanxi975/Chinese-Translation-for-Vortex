@@ -2,9 +2,9 @@
   "Latest Extensions": "最新扩展",
   "Please endorse extensions you like": "请点赞您喜欢的扩展",
   "Not now": "现在不要",
-  "By {{author}}": "由{{author}}",
+  "By {{author}}": "由 {{author}}",
   "Install": "安装",
   "Endorse": "点赞",
   "Abstain": "点踩",
-  "Extension installed, please restart Vortex to enable it": "扩展程序已安装，请重新启动Vortex以启用它"
+  "Extension installed, please restart Vortex to enable it": "扩展程序已安装，请重新启动 Vortex 以启用它"
 }

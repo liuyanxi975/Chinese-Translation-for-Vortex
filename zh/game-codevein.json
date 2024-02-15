@@ -1,5 +1,5 @@
 ﻿{
   "Changing your load order": "更改加载顺序",
-  "Drag and drop the mods on the left to reorder them. Code Vein loads mods in alphabetic order so Vortex prefixes the directory names with \"AAA, AAB, AAC, ...\" to ensure they load in the order you set here. ": "将模组拖放到左边重新排序。Code Vein 按字母顺序加载模组，因此Vortex在目录名前面加上“AAA, AAB, AAC，…”以确保它们能按照您在这里设置的顺序进行加载。",
-  "Note: You can only manage mods installed with Vortex. Installing other mods manually may cause unexpected errors.": "注意:您只能使用Vortex管理和安装模组。手动安装其他模组可能会导致意外错误。"
+  "Drag and drop the mods on the left to reorder them. Code Vein loads mods in alphabetic order so Vortex prefixes the directory names with \"AAA, AAB, AAC, ...\" to ensure they load in the order you set here. ": "将模组拖放到左边重新排序。Code Vein 按字母顺序加载模组，因此 Vortex 在目录名前面加上 “AAA, AAB, AAC，…” 以确保它们能按照您在这里设置的顺序进行加载。",
+  "Note: You can only manage mods installed with Vortex. Installing other mods manually may cause unexpected errors.": "注意：您只能使用 Vortex 管理和安装模组。手动安装其他模组可能会导致意外错误。"
 }

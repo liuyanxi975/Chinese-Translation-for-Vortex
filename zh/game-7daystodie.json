@@ -1,5 +1,5 @@
 ﻿{
   "Change the load order with drag&drop.": "拖放来改变加载顺序。",
-  "7 Days to Die loads mods in alphabetic order so Vortex prefixes the directory names with \"AAA, AAB, AAC, ...\" to ensure they load in the order you set here.": "7 Days to Die 按字母顺序加载模组，因此Vortex在目录名前面加上“AAA, AAB, AAC，…”以确保它们能按照您在这里设置的顺序进行加载。",
+  "7 Days to Die loads mods in alphabetic order so Vortex prefixes the directory names with \"AAA, AAB, AAC, ...\" to ensure they load in the order you set here.": "7 Days to Die 按字母顺序加载模组，因此 Vortex 在目录名前面加上 “AAA, AAB, AAC，…” 以确保它们能按照您在这里设置的顺序进行加载。",
   "Mods for 7 Days to Die need to be reinstalled": "需要重新安装 7 Days to Die 的 模组"
 }

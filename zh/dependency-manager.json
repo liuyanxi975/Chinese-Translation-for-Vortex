@@ -1,5 +1,5 @@
 ﻿{
-  "{{ count }} conflicting file_plural": "{{ count }} 个冲突的文件",
-  "{{ count }} conflicting file": "{{ count }} 个冲突的文件",
-  "{{ count }} conflicting file_0": "{{ count }} 个冲突的文件"
+  "{{ count }} conflicting file_plural": "{{count}} 个冲突的文件",
+  "{{ count }} conflicting file": "{{count}} 个冲突的文件",
+  "{{ count }} conflicting file_0": "{{count}} 个冲突的文件"
 }
