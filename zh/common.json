@@ -2397,7 +2397,7 @@
   "Extensions have to be installed from the extensions page.": "必须从“扩展”页安装扩展。",
   "{{ count }} extensions will be updated": "{{ count }} 个扩展将被更新",
   "Some of the installed extensions couldn't be loaded because they have missing dependencies.": "无法加载某些已安装的扩展，因为它们缺少依赖项。",
-  "Invalid Extension": "无效的扩展名",
+  "Invalid Extension": "无效扩展",
   "No download found": "找不到下载",
   "Download not found": "未找到下载",
   "Unexpected response from github (see log file)": "来自 github 的错误响应（请参阅日志文件）",
