@@ -10,7 +10,7 @@
   ", planned for {{date}}": ", 计划于 {{date}}",
   "Milestone: {{title}} ({{state}})": "里程碑：{{title}} ({{state}})",
   "Open": "开启",
-  "{{ count }} comments": "{{count}} 评论",
+  "{{ count }} comments": "{{ count }} 评论",
   "You've received feedback response": "您收到了反馈",
   "The Vortex developers require your assistance with a bug/suggestion which you have submitted. To view our response please click on any of the below links: <br /><br />{{ urlString }}": "Vortex 开发人员需要您协助处理您提交的错误 / 建议。要查看我们的回复，请点击以下的任意链接： <br /><br />{{ urlString }}",
   "More": "更多",

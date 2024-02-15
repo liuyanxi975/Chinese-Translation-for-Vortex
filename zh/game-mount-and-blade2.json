@@ -13,7 +13,7 @@
   "Auto Sort uses the SubModule.xml files (the entries under <DependedModules>) to detect dependencies to sort by. ": "自动排序使用 SubModule.xml 文件（<DependedModules> 下的条目）检测排序依据。 ",
   "If you cannot see your mod in this load order, Vortex may have been unable to find or parse its SubModule.xml file. Most - but not all mods - come with or need a SubModule.xml file.": "如果您无法按此加载顺序看到您的模组，则 Vortex 可能无法找到或分析其 SubModule.xml 文件。大多数，但不是全部模组都附带或需要 SubModule.xml 文件。",
   "Hit the deploy button whenever you install and enable a new mod.": "每当您安装并启用新的模组时，请点击部署按钮。",
-  "The game will not launch unless the game store (Steam, Epic, etc) is started beforehand. If you're getting the \"Unable to Initialize Steam API\" error, restart Steam.": "除非事先启动了游戏商店（Steam，Epic 等），否则游戏将不会启动。如果出现 \"无法初始化 Steam API\" 错误，请重新启动 Steam。",
+  "The game will not launch unless the game store (Steam, Epic, etc) is started beforehand. If you're getting the \"Unable to Initialize Steam API\" error, restart Steam.": "除非事先启动了游戏商店（Steam，Epic 等），否则游戏将不会启动。如果出现“无法初始化 Steam API”错误，请重新启动 Steam。",
   "Right clicking an entry will open the context menu which can be used to lock LO entries into position; entry will be ignored by auto-sort maintaining its locked position.": "右键单击条目将打开上下文菜单，该菜单可用于将 LO 条目锁定到位；自动排序将保持其锁定位置，系统将忽略该条目。",
   "Finished sorting": "整理完毕"
 }

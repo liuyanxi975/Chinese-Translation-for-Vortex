@@ -1,5 +1,5 @@
 ﻿{
-  "{{ count }} conflicting file_plural": "{{count}} 个冲突文件",
+  "{{ count }} conflicting file_plural": "{{ count }} 个冲突文件",
   "Conflict": "冲突",
   "Unresolved": "未解决",
   "LO Rule": "LO 规则"
