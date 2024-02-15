@@ -3676,7 +3676,7 @@
   "Install LSLib": "安装 LSLib",
   "Recommended Mods": "推荐模组",
   "Confirm mod installation": "确认模组安装",
-  "Mod looks like a replacer": "模组看起来像是一个 Replacer",
+  "Mod looks like a replacer": "这看起来是一个替换型模组",
   "Invalid meta.lsx file": "无效的 meta.lsx 文件",
   "\"modsettings.lsx\" file was reset": "“modsettings.lsx”文件已重置",
   "Failed to write load order": "写入加载顺序失败",
