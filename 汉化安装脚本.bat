@@ -27,6 +27,7 @@ pause >nul
 cls
 md "%vortexpath%\locales\zh" >nul 2>nul
 copy /y zh %vortexpath%\locales\zh
+timeout /nobreak /t 1 >nul
 if %errorlevel% geq 1 (
 goto ERROR3
 ) else (
