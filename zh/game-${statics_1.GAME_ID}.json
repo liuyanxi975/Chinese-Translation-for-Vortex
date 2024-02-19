@@ -1,0 +1,5 @@
+﻿{
+  "Changing your load order": "更改你的加载顺序",
+  "Drag and drop the mods on the left to reorder them. Kingdom Come: Deliverance uses a mod_order.txt file to define the order in which mods are loaded, Vortex will write the folder names of the displayed mods in the order you have set. Mods placed at the bottom of the load order will have priority over those above them.": "拖拽左侧的模组来重新排序它们。Kingdom Come: Deliverance 使用 mod_order.txt 文件来定义模组加载的顺序，Vortex 会按照你设置的顺序写入显示模组的文件夹名称。在加载顺序底部的模组将优先于上方的模组。",
+  "Note: Vortex will detect manually added mods as long as these have been added to the mod_order.txt file. Manually added mods are not managed by Vortex - to remove these, you will have to manually erase the entry from the mod_order.txt file.": "注意：只要这些模组被添加到 mod_order.txt 文件中，Vortex 就能检测到手动添加的模组。手动添加的模组不受 Vortex 管理 —— 要移除这些模组，你需要手动从 mod_order.txt 文件中删除条目。"
+}
