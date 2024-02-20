@@ -46,6 +46,7 @@
   "Mod Rules": "模组规则",
   "File Overrides": "文件覆盖",
   "Collection Instructions": "整合包说明",
+  "Enter instructions here (Markdown supported - Links, Bold, Italics)": "在这里输入说明（支持 Markdown——链接，粗体，斜体）",
   "Can't upload an empty collection": "无法上传空整合包",
   "This mod has installer options": "此模组有安装选项",
   "This collection has {{count}} optional mods which are not required to complete the installation but may provide additional features or options. You can view these mods before installing as they may change the default behavior of the collection or have additional requirements.": "此整合包有 {{count}} 个可选模组，它们不是完成安装所必需的，但可能提供额外的功能或选项。你可以在安装前查看这些模组，因为它们可能会改变整合包的默认行为或有额外的要求。"
