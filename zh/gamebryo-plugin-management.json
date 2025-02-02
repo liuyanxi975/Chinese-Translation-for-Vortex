@@ -30,5 +30,18 @@
   "Enable automatic load order sorting powered by LOOT": "启用由 LOOT 提供的自动加载顺序排序",
   "Sort your load order using LOOT": "使用 LOOT 对您的加载顺序进行排序",
   "Ghost": "幽灵",
-  "Loaded by engine": "由引擎加载"
+  "Loaded by engine": "由引擎加载",
+  "Manage Groups": "管理群组",
+  "History": "历史",
+  "Master": "主体",
+  "Light": "轻插件",
+  "Loads Archive": "读取文档",
+  "Could be light": "可能为轻插件",
+  "Native": "原生插件",
+  "Not light": "非轻插件",
+  "Dirty": "脏插件",
+  "Don't clean": "不要清洁",
+  "Warnings": "警告",
+  "Incompatible": "不兼容",
+  "Tags": "标签"
 }

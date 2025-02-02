@@ -4,5 +4,6 @@
   "If your games take very long to save when Vortex is running, try disabling this.": "如果在运行 Vortex 时游戏保存时间很长，尝试禁用此功能。",
   "Select directories to scan": "选择目录以扫描",
   "Cancel": "取消",
-  "Scan": "扫描"
+  "Scan": "扫描",
+  "Description": "描述"
 }

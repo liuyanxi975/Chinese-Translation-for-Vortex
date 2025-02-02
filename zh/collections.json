@@ -1,4 +1,11 @@
 ﻿{
   "This collection has {{count}} optional mods which are not required to complete the installation but have been recommended by the curator. To view these mods, click the button below.": "此整合包有 {{count}} 个可选模组，它们不是完成安装所必需的，但已被作者推荐。要查看这些模组，请点击下面的按钮。",
-  "This collection has {{count}} optional mods which are not required to complete the installation but have been recommended by the curator. To view these mods, click the button below._plural": "此整合包有 {{count}} 个可选模组，它们不是完成安装所必需的，但已被作者推荐。要查看这些模组，请点击下面的按钮。"
+  "This collection has {{count}} optional mods which are not required to complete the installation but have been recommended by the curator. To view these mods, click the button below._plural": "此整合包有 {{count}} 个可选模组，它们不是完成安装所必需的，但已被作者推荐。要查看这些模组，请点击下面的按钮。",
+  "Collection installation complete": "整合包安装完成",
+  "No description": "没有描述",
+  "You now have the whole collection installed, you can start editing your collection by cloning it.": "您现在已经安装了整个整合包，您可以通过克隆来开始编辑您自己的整合包。",
+  "Clone the collection to the workshop for editing": "将整合包复制到工坊进行编辑",
+  "Edit": "编辑",
+  "Done": "完成",
+  "Collections": "整合包"
 }
