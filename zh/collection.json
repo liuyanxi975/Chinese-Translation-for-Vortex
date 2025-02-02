@@ -56,7 +56,7 @@
   "Mods need to be in an installed state in order to add them to a collection. If the mod you want to add is not in this list, make sure it's installed.": "模组需要处于已安装状态才能将其添加到整合包中。如果您想添加的模组不在此列表中，请确保它已安装。",
   "Add Selection": "添加已选",
   "Downvote Success Rating": "差评",
-  "Success ratings help others know if a collection installs and runs correctly. They are not a vote on whether you liked the collection or not.": "您已成功评价来帮助他人了解一个整合包是否能正常安装和运行。请注意这并不是对您是否喜欢该整合包的投票。",
+  "Success ratings help others know if a collection installs and runs correctly. They are not a vote on whether you liked the collection or not.": "成功率用以帮助他人了解一个整合包是否能正常安装和运行。请注意这并不是对您是否喜欢该整合包的投票。",
   "I have tried the above steps and confirm this collection does not work.": "我已经尝试了上述步骤，并确认这个整合包不起作用。",
   "Submit": "提交",
   "Added Collections": "新增整合包",

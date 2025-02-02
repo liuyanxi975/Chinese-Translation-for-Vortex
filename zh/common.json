@@ -4098,7 +4098,7 @@
   "Your Vortex installation has been corrupted. This could be the result of a virus or manual manipulation. Vortex might still appear to work (partially) but we suggest you reinstall it. For more information please refer to Vortex's log files.": "您的 Vortex 安装已损坏。 这可能是由于病毒或某些手动操作所致。 Vortex 可能仍可以部分工作，但我们建议您重新安装。 有关更多信息，请参考 Vortex 的日志文件。",
   "Import Failed": "导入失败",
   "no active game": "没有启用的游戏",
-  "Install mods during collection downloads": "在下载集合时安装模组",
+  "Install mods during collection downloads": "在下载整合包时安装模组",
   "Some optional extensions for \"{{game}}\" are missing.[br][/br][br][/br]Do you want to install them now?": "\"{{game}}\" 的可选扩展缺失。[br][/br][br][/br]您现在想安装它们吗？",
   "Missing Optional Extension/s": "缺少可选扩展",
   "Install Extension/s": "安装扩展",
